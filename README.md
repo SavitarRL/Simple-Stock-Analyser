@@ -1,4 +1,4 @@
-# Overview of the Analyser
+# Overview of the Simple Stock Analyser
 
 Read file in with the following format: [Stock],[Interval],[Volume Traded],[High],[Low]
 
